@@ -1,12 +1,13 @@
-📘 Booking Analysis Project
-Overview
+# 📘 Booking Analysis Project
+
+# Overview
 This project involves cleaning, transforming, and analyzing hotel booking data using SQL. The main goals are to handle data quality issues, create a deduplicated view of the dataset, and extract key business insights from the data.
 
-Files Included
+# Files Included
 1. booking_Dataset.csv
 Description: Raw dataset containing hotel booking details including customer info, booking preferences, and transaction details.
 
-Key Columns:
+# Key Columns:
 
 booking_id, booking_date, hotel, country
 
