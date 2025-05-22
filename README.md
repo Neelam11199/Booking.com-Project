@@ -20,7 +20,7 @@ email, name, required_car_parking_spaces, deposit_type
 2. booking queries.sql
 Description: SQL script that performs data cleaning and generates analytical insights from the dataset.
 
-SQL Script Sections
+# SQL Script Sections
 1. 🔧 Data Cleaning
 Null Handling: Replaces NULL values with default values or aggregated data.
 
@@ -29,7 +29,7 @@ Duplicate Removal: Uses a window function (ROW_NUMBER()) to retain only the firs
 View Created: booking_view — a cleaned version of the bookings table.
 
 2. 📊 Business Insights & Analytics
-Key questions addressed:
+# Key questions addressed:
 
 Cancellation Rate: Calculates overall cancellation percentage.
 
